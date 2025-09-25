@@ -1,3 +1,3 @@
-# Teller: Real-Time Streaming Audio-Driven Portrait Animation with Autoregressive Motion Generation
+# Greedy Distill: Efficient Video Generative Modeling with Linear Time Complexity
 
 test
